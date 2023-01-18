@@ -1,1 +1,1 @@
-# lighthouse-data-notes
+# Spencer Denton's Notes
